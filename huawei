@@ -46,3 +46,9 @@
     secret_access_key = 'cVBxHKSh375El7pl90DfQD0Fo1GiPG'
   client_id: LTAI5tXXt9eF7t5YJQ1uxSxx
   client_secret: cVBxHKSh375El7pl90DfQD0Fo1GiPG
+
+
+
+- text: tencent_secret_id => 'AKIDzODdB1nOELz0T8CEjTEkgKJOob3t2Tos', tencent_secret_key => '6aHHkz236LOYu0nRuBwn5PwT0x3km7LE'
+  client_id: AKIDzODdB1nOELz0T8CEjTEkgKJOob3t2Tos
+  client_secret: 6aHHkz236LOYu0nRuBwn5PwT0x3km7LE
