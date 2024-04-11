@@ -52,3 +52,16 @@
 - text: tencent_secret_id => 'AKIDzODdB1nOELz0T8CEjTEkgKJOob3t2Tos', tencent_secret_key => '6aHHkz236LOYu0nRuBwn5PwT0x3km7LE'
   client_id: AKIDzODdB1nOELz0T8CEjTEkgKJOob3t2Tos
   client_secret: 6aHHkz236LOYu0nRuBwn5PwT0x3km7LE
+
+
+[default]
+aws_access_key_id = AKIAQYLPMN5HHHFPZAM2
+aws_secret_access_key = 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
+output = json
+region = us-east-2
+
+[default]
+aws_access_key_id = AKIAQYLPMN5HHHFPZAM2
+aws_secret_access_key = 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
+output = json
+region = us-east-2
